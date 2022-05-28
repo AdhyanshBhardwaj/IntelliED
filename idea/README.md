@@ -1,5 +1,6 @@
 ## Name of the Solution
 **IntelliED**
+![image](https://github.com/AdhyanshBhardwaj/IntelliED/blob/main/idea/IntelliED%20Logo.PNG)
 
 ## Description
 
@@ -41,3 +42,4 @@
 **☑ Reduces human reporting errors.**
 
 **☑ Saves time & automates routine administrative tasks.**
+
