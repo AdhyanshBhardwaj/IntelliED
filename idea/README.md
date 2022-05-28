@@ -1,6 +1,7 @@
 ## Name of the Solution
 **IntelliED**
-![image](https://github.com/AdhyanshBhardwaj/IntelliED/blob/main/idea/IntelliED%20Logo.PNG)
+
+<img align="right" src="https://github.com/AdhyanshBhardwaj/IntelliED/blob/main/idea/IntelliED%20Logo.PNG" width="450" height="300">
 
 ## Description
 
