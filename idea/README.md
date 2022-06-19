@@ -44,3 +44,4 @@
 
 **☑ Saves time & automates routine administrative tasks.**
 
+<img align="center" src="https://github.com/AdhyanshBhardwaj/IntelliED/blob/main/idea/Mockup.png" width="650" height="500">
